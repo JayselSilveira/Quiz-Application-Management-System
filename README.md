@@ -19,3 +19,5 @@ Once you login as a student the following features are included:
 i) View Quiz - The View Quiz section displays all the quizzes available on the App. The student can answer quizzes through this section. Once you click on a particular quiz of your choice, a quiz details like the rules, description and difficulty level will be displayed. You may proceed forward to answer the quiz and once done, you can submit the same. On submission, the quiz score will be displayed. 
 
 ii) View Results -The View Results section displays the results of all the quizzes that the student has answered. You can track your progress through this.
+
+Explanation Video: https://www.youtube.com/watch?v=j1dnSrj_r_4&t=4s
